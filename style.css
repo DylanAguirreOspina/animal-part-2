@@ -1,0 +1,28 @@
+.header_div p{
+color: black;
+background-color: aliceblue;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background:#8fabbf;
+    font-weight: 900;
+
+
+}
+.main_div button{
+    font-family: 'Fira Sans', sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight:bold;
+    letter-spacing:5px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:black;  
+    bottom:0;
+    width: 100%;
+    font-size:15px;
+    background-color: lightgrey;
+    line-height: 3;
+    text-align:center;
+  }
